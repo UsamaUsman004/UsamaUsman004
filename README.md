@@ -1,4 +1,4 @@
-
+<img src="banner.jpg" />
 <h1 align="center">Hi 👋, I'm Usama Usman</h1>
 <h3 align="center">A Creative Super Hero with the Skill set of Design & Development</h3>
 
