@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Usama Usman</h1>
 <h3 align="center">A Creative Super Hero with the Skill set of Design & Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=usamausman004&label=Profile%20views&color=0e75b6&style=flat" alt="usamausman004" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=usamausman-dev&label=Profile%20views&color=0e75b6&style=flat" alt="usamausman-dev" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/usamausman-dev](https://github.com/usamausman-dev)
 
@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://twitter.com/usamausman_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usamausman_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/usama-usman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usama-usman" height="30" width="40" /></a>
-<a href="https://fb.com/usamausman004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="usamausman004" height="30" width="40" /></a>
+<a href="https://fb.com/usamausman-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="usamausman-dev" height="30" width="40" /></a>
 <a href="https://instagram.com/_usamausman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_usamausman" height="30" width="40" /></a>
 <a href="https://www.behance.net/usamausman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="usamausman" height="30" width="40" /></a>
 </p>
@@ -22,13 +22,13 @@
 
 <h3 align="left">Support:</h3>
 
-<p><a href="https://www.buymeacoffee.com//usamausman004"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="/usamausman004" /></a></p>
+<p><a href="https://www.buymeacoffee.com//usamausman-dev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="/usamausman-dev" /></a></p>
 
 <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usamausman004&show_icons=true&locale=en&layout=compact" alt="usamausman004" /></p><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usamausman-dev&show_icons=true&locale=en&layout=compact" alt="usamausman-dev" /></p><br>
 <br><br><br><br><br><br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usamausman004&show_icons=true&locale=en" alt="usamausman004" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usamausman-dev&show_icons=true&locale=en" alt="usamausman-dev" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usamausman004&" alt="usamausman004" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usamausman-dev&" alt="usamausman-dev" /></p>
 
