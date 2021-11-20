@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usamausman004&label=Profile%20views&color=0e75b6&style=flat" alt="usamausman004" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/UsamaUsman004](https://github.com/UsamaUsman004)
+- 👨‍💻 All of my projects are available at [https://github.com/usamausman-dev](https://github.com/usamausman-dev)
 
 - 📫 How to reach me **uusman004@gmail.com**
 
